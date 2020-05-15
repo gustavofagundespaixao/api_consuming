@@ -1,6 +1,6 @@
 # api_consuming
 
-![](screens_shot.png)
+![](screen_shot.png)
 
 A new Flutter project.
 

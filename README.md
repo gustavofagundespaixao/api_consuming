@@ -1,6 +1,6 @@
 # api_consuming
 
-![](screen_shot.png)
+<img src="screen_shot.png" height="500px">
 
 A new Flutter project.
 
